@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This was made by XmlSerializer class-->
+<MyClass a="6">
+  <AgregationClass>
+    <asdas>17</asdas>
+    <CProperty>
+      <hello>worlds</hello>
+    </CProperty>
+  </AgregationClass>
+  <D>3,14</D>
+</MyClass>

@@ -1,0 +1,14 @@
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\ShevchenkoSerializator\bin\Debug\ShevchenkoSerializator.exe.config
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\ShevchenkoSerializator\bin\Debug\ShevchenkoSerializator.exe
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\ShevchenkoSerializator\bin\Debug\ShevchenkoSerializator.pdb
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.csprojResolveAssemblyReference.cache
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.csproj.CoreCompileInputs.cache
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.exe
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.pdb
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12_NEW\ShevchenkoSerializator\bin\Debug\ShevchenkoSerializator.exe.config
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12_NEW\ShevchenkoSerializator\bin\Debug\ShevchenkoSerializator.exe
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12_NEW\ShevchenkoSerializator\bin\Debug\ShevchenkoSerializator.pdb
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12_NEW\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.csprojResolveAssemblyReference.cache
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12_NEW\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.csproj.CoreCompileInputs.cache
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12_NEW\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.exe
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12_NEW\ShevchenkoSerializator\obj\Debug\ShevchenkoSerializator.pdb

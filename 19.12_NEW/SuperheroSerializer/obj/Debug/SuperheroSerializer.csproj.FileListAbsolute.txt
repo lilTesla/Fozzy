@@ -1,0 +1,7 @@
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\SuperheroSerializer\bin\Debug\SuperheroSerializer.exe.config
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\SuperheroSerializer\bin\Debug\SuperheroSerializer.exe
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\SuperheroSerializer\bin\Debug\SuperheroSerializer.pdb
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\SuperheroSerializer\obj\Debug\SuperheroSerializer.csprojResolveAssemblyReference.cache
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\SuperheroSerializer\obj\Debug\SuperheroSerializer.csproj.CoreCompileInputs.cache
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\SuperheroSerializer\obj\Debug\SuperheroSerializer.exe
+C:\Users\DeepSeeker\Desktop\Fozzy\ДЗ\19.12\SuperheroSerializer\obj\Debug\SuperheroSerializer.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Superhero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gun>
+    <ammo>10</ammo>
+  </gun>
+  <Quests>
+    <Quest>
+      <Message>Talk to dekan</Message>
+      <Reward>100</Reward>
+    </Quest>
+  </Quests>
+</Superhero>
